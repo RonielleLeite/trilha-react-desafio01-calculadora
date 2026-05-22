@@ -101,4 +101,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-> Desenvolvido com ❤️ por [Ronielle Leite](https://github.com/RonielleLeite)
+> Desenvolvido por [Ronielle Leite](https://github.com/RonielleLeite)
